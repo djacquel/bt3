@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "maqueenPlusV2": "github:dfrobot/pxt-dfrobot_maqueenplus_v20#v2.1.1"
+        "maqueenPlusV2": "github:djacquel/pxt-dfrobot_maqueenplus_v20#v2.1.1"
     },
     "files": [
         "main.blocks",
